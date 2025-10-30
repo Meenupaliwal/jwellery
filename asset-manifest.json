@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jwellery/static/css/main.dda18d14.css",
-    "main.js": "/jwellery/static/js/main.a731d195.js",
+    "main.js": "/jwellery/static/js/main.0c44162c.js",
     "static/js/453.598ebc49.chunk.js": "/jwellery/static/js/453.598ebc49.chunk.js",
     "static/media/icomoon995b.svg?fg717e": "/jwellery/static/media/icomoon995b.3bca6a18e19d75e5a76f.svg",
     "static/media/box-image-9.jpg": "/jwellery/static/media/box-image-9.a135b47d23140844cb9c.jpg",
@@ -35,11 +35,11 @@
     "static/media/start.svg": "/jwellery/static/media/start.11b78977569d10c02479.svg",
     "static/media/start-1.svg": "/jwellery/static/media/start-1.1516ecb19d642c75f459.svg",
     "main.dda18d14.css.map": "/jwellery/static/css/main.dda18d14.css.map",
-    "main.a731d195.js.map": "/jwellery/static/js/main.a731d195.js.map",
+    "main.0c44162c.js.map": "/jwellery/static/js/main.0c44162c.js.map",
     "453.598ebc49.chunk.js.map": "/jwellery/static/js/453.598ebc49.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dda18d14.css",
-    "static/js/main.a731d195.js"
+    "static/js/main.0c44162c.js"
   ]
 }
